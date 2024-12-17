@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="108081ef-de1f-4794-8414-6d477145cce5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/study/d12_16/Teacher.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2pf7FVOC3nmmaoODDCVQPDFiLGc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.extends02_">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.d12_10.AccountTest" />
+      <module name="Project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.d12_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex01" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.d12_2.Ex01" />
+      <module name="Project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.d12_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.d12_2.Ex2" />
+      <module name="Project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.d12_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.d12_16.Main" />
+      <module name="Project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.d12_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.d12_11.Main" />
+      <module name="Project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.d12_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="extends02_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.d12_11.extends02_" />
+      <module name="Project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.d12_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.extends02_" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="108081ef-de1f-4794-8414-6d477145cce5" name="Default Changelist" comment="" />
+      <created>1733145172344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733145172344</updated>
+      <workItem from="1733145175853" duration="3093000" />
+      <workItem from="1733362062710" duration="397000" />
+      <workItem from="1733801364176" duration="55000" />
+      <workItem from="1733829186900" duration="8237000" />
+      <workItem from="1733911923541" duration="4049000" />
+      <workItem from="1733990434525" duration="1351000" />
+      <workItem from="1734246068112" duration="2094000" />
+      <workItem from="1734336104773" duration="2416000" />
+      <workItem from="1734419272432" duration="624000" />
+      <workItem from="1734420325950" duration="2782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1733145323433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1733145323433" />
+    <state x="938" y="145" width="386" height="567" key="#com.intellij.ide.util.MemberChooser" timestamp="1734422991350">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="938" y="138" width="386" height="567" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1733917594067" />
+    <state x="938" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1734422991350" />
+    <state x="549" y="160" key="FileChooserDialogImpl" timestamp="1734423129453">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1734342710410" />
+    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1734423129453" />
+    <state width="1537" height="160" key="GridCell.Tab.0.bottom" timestamp="1734423131134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1734345634032" />
+    <state width="1537" height="160" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1734423131134" />
+    <state width="1537" height="160" key="GridCell.Tab.0.center" timestamp="1734423131133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1734345634031" />
+    <state width="1537" height="160" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1734423131133" />
+    <state width="1537" height="160" key="GridCell.Tab.0.left" timestamp="1734423131133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1734345634031" />
+    <state width="1537" height="160" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1734423131133" />
+    <state width="1537" height="160" key="GridCell.Tab.0.right" timestamp="1734423131133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1734345634032" />
+    <state width="1537" height="160" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1734423131133" />
+    <state width="1537" height="160" key="GridCell.Tab.1.bottom" timestamp="1734423131134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1733839547188" />
+    <state width="1537" height="160" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1734423131134" />
+    <state width="1537" height="160" key="GridCell.Tab.1.center" timestamp="1734423131134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1733839547188" />
+    <state width="1537" height="160" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1734423131134" />
+    <state width="1537" height="160" key="GridCell.Tab.1.left" timestamp="1734423131134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1733839547188" />
+    <state width="1537" height="160" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1734423131134" />
+    <state width="1537" height="160" key="GridCell.Tab.1.right" timestamp="1734423131134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1733839547188" />
+    <state width="1537" height="160" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1734423131134" />
+    <state x="470" y="74" key="SettingsEditor" timestamp="1734336908578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="74" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1734336908578" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1734336371859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1734336371859" />
+    <state x="0" y="0" width="600" height="864" key="find.popup" timestamp="1734421937028">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" width="600" height="864" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1734421937028" />
+    <state x="178" y="22" key="new project wizard" timestamp="1734342722733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1734342722733" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1733145932863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1733145932863" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="pc" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
