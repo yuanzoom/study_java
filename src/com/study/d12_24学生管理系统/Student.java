@@ -1,4 +1,4 @@
-package study.d12_24;
+package study.d12_24学生管理系统;
 
 public class Student {
     private String id;

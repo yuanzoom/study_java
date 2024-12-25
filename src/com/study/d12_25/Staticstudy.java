@@ -1,4 +1,6 @@
-package study.d12_24;
+package study.d12_25;
+
+import study.d12_24学生管理系统.Student;
 
 public class Staticstudy {
     public static void main(String[] args) {
