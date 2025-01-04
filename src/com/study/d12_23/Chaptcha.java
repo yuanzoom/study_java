@@ -5,7 +5,7 @@ import java.util.Random;
 public class Chaptcha {
     public static void main(String[] args) {
         String s1 = randomNum();
-
+        System.out.println(s1);
         System.out.println(check(s1));
     }
     public static String randomNum() {
