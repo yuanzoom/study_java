@@ -202,7 +202,7 @@ public class LibrarySystem {
                     person.getPersonid()+"\t"+person.getPhonenum());
         }
     }
-    //手机号验证
+    //注册手机号验证
     public static void checkPhonenum(Information person) {
         Scanner scanner = new Scanner(System.in);
         toop:while (true) {
@@ -271,7 +271,7 @@ public class LibrarySystem {
     public static void checkPasswd(Information person) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
-            System.out.println("请输入注册密码");
+            System.out.println("密请输入注册码");
             String passwd1 = scanner.next();
             System.out.println("请再输入一次确认注册密码");
             String passwd2 = scanner.next();
