@@ -14,10 +14,12 @@ public class Student {
     public static void setA(String a) {
         Student.a = a;
     }
+
     public void show() {
-        System.out.println(this.getId()+"     "+this.getName()+"    "+
-                this.getAge()+"     "+this.getAddress()+" "+a);
+        System.out.println(this.getId() + "     " + this.getName() + "    " +
+                this.getAge() + "     " + this.getAddress() + " " + a);
     }
+
     public Student() {
     }
 

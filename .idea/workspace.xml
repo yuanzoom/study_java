@@ -15,8 +15,11 @@
   <component name="ChangeListManager">
     <list default="true" id="108081ef-de1f-4794-8414-6d477145cce5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/out/production/com/study/d12_24学生管理系统/LibrarySystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/out/production/com/study/d12_24学生管理系统/LibrarySystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/study/d12_24学生管理系统/LibrarySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/d12_24学生管理系统/LibrarySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/out/production/com/com/study/d12_2/Ex01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/out/production/com/study/d12_24学生管理系统/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/out/production/com/study/d12_24学生管理系统/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/out/production/com/study/d2025_1_8/A01_SetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/out/production/com/study/d2025_1_8/A01_SetDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/study/d12_2/Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/d12_2/Ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/study/d12_24学生管理系统/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/d12_24学生管理系统/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +47,28 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.extends02_">
+  <component name="RunManager" selected="Application.Ex01 (1)">
     <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.study.d12_10.AccountTest" />
       <module name="Project01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.study.d12_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.d12_2.Ex01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.d12_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,19 +95,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.study.d12_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.d12_16.Main" />
-      <module name="Project01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.d12_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex01 (1)" />
         <item itemvalue="Application.extends02_" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.AccountTest" />
         <item itemvalue="Application.Ex2" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +146,7 @@
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -178,11 +175,16 @@
       <workItem from="1736316310731" duration="21000" />
       <workItem from="1736316351395" duration="66000" />
       <workItem from="1736316431801" duration="25000" />
+      <workItem from="1736602665525" duration="76000" />
+      <workItem from="1736602900546" duration="62000" />
+      <workItem from="1736602988563" duration="27000" />
+      <workItem from="1740398463142" duration="411000" />
+      <workItem from="1740557957493" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -195,16 +197,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1736316390168">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1736316390168" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1736316408644">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1736316408644" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
